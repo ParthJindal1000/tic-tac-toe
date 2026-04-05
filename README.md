@@ -19,19 +19,19 @@ A clean Python terminal implementation of the classic Tic Tac Toe game. Play aga
    7 | 8 | 9
 ==============================
 
-   | |
+   |   |
 ---|---|---
-   | |
+   |   |
 ---|---|---
-   | |
+   |   |
 
 Your move (1-9): 5
 
-   | |
+   |   |
 ---|---|---
-   |X|
+   |X  |
 ---|---|---
-   | |
+   |   |
 
 Computer is thinking...
 Computer placed O at position 1
